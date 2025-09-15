@@ -1,0 +1,12 @@
+.env
+
+.ipynb_checkpoints
+
+.DS_Store
+
+*.csv
+
+.venv
+
+.idea
+
