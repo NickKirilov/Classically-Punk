@@ -1,0 +1,11 @@
+execution_duration_ms: 1
+request_preview: '{"values": "[1.4818617  2.021809   1.959363   ... 0.7318351  0.39636877
+  0.29186803]", "smoothing_factor": 0.9}'
+request_time: '2025-10-30T14:08:10.350Z'
+response_preview: '"[1.4818617  1.5358564  1.578207   ... 0.6645939  0.6377713  0.60318094]"'
+state: OK
+trace_id: tr-158307369378c1f87c46efa7072a6843
+trace_location:
+  mlflow_experiment:
+    experiment_id: '481808857737600738'
+  type: MLFLOW_EXPERIMENT

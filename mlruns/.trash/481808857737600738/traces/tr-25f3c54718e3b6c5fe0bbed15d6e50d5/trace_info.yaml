@@ -1,0 +1,10 @@
+execution_duration_ms: 11
+request_preview: '{"input_dim": 49, "num_classes": 10}'
+request_time: '2025-10-30T14:06:56.016Z'
+response_preview: 'null'
+state: OK
+trace_id: tr-25f3c54718e3b6c5fe0bbed15d6e50d5
+trace_location:
+  mlflow_experiment:
+    experiment_id: '481808857737600738'
+  type: MLFLOW_EXPERIMENT

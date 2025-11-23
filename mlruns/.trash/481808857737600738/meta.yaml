@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/481808857737600738
+creation_time: 1761832991595
+experiment_id: '481808857737600738'
+last_update_time: 1761834314770
+lifecycle_stage: deleted
+name: mlflow-trace-ui-demo
+tags:
+  mlflow.experimentKind: custom_model_development

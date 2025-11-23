@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/583372937118049718/0e1a0fe1838648afaac69fea794b1528/artifacts
+end_time: 1762798795179
+entry_point_name: ''
+experiment_id: '583372937118049718'
+lifecycle_stage: active
+run_id: 0e1a0fe1838648afaac69fea794b1528
+run_name: cross_validated_results
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762798795158
+status: 3
+tags: []
+user_id: nikolaykirilov

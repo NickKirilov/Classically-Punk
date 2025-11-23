@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/583372937118049718/d141a07848744c959d348d4eed2ee2cd/artifacts
+end_time: 1761837122822
+entry_point_name: ''
+experiment_id: '583372937118049718'
+lifecycle_stage: active
+run_id: d141a07848744c959d348d4eed2ee2cd
+run_name: efficient-sponge-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761836949031
+status: 3
+tags: []
+user_id: nikolaykirilov

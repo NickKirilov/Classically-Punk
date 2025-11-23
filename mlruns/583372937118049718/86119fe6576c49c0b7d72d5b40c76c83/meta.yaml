@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/583372937118049718/86119fe6576c49c0b7d72d5b40c76c83/artifacts
+end_time: 1762792703596
+entry_point_name: ''
+experiment_id: '583372937118049718'
+lifecycle_stage: active
+run_id: 86119fe6576c49c0b7d72d5b40c76c83
+run_name: fold_1_audio_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762792701266
+status: 3
+tags: []
+user_id: nikolaykirilov
